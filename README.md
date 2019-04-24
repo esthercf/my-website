@@ -1,9 +1,6 @@
 # my-website
 
 This is my website test one
+from develop branch
 
-updates made on master, now i will rebase
 
-## new updates
-
-forcing conflict from local
