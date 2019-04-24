@@ -2,7 +2,5 @@
 
 This is my website test one
 
-
-
-updates made on master before rebase
+updates made on master, now i will rebase
 
